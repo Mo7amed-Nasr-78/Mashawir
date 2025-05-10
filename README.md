@@ -72,11 +72,3 @@ Tourists in Egypt often face difficulties in navigating between destinations, fi
 
 ---
 
-## 📌 Next Steps
-
-- Build a working MVP using React Native or Flutter  
-- Integrate APIs for real-time tourism data and bookings  
-- Collaborate with local tour guide organizations
-
----
-
